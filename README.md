@@ -1,5 +1,6 @@
 # Telecom Data Analysis with an RShiny Dashboard
 Created by Margaret Sant, Data Engineering student at Jacobs University
+[**Click Here to use Application**](https://margisant.shinyapps.io/app2/)
 
 ## Summary
 ### Task and Goal
